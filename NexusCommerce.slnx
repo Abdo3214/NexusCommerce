@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/common/">
+    <Project Path="NexusCommerce.Common/NexusCommerce.Common.csproj" />
+  </Folder>
+  <Project Path="NexusCommerce.API/NexusCommerce.API.csproj" />
+  <Project Path="NexusCommerce.BLL/NexusCommerce.BLL.csproj" />
+  <Project Path="NexusCommerce.DAL/NexusCommerce.DAL.csproj" />
+</Solution>
